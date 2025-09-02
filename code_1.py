@@ -1,6 +1,8 @@
 # Simple Library Management System 1 2 
 # satır 2 
 
+
+
 class Book:
     def __init__(self, isbn, title, author, year):
         self.isbn = isbn

@@ -1,4 +1,4 @@
-# Simple School Management System
+# Simple School Management System 1
 
 class Student:
     def __init__(self, student_id, name, grade, age):

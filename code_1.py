@@ -1,6 +1,3 @@
-# Simple Library Management System 1 2 
-# satır 2 
-
 
 
 class Book:
